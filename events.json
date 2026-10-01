@@ -1,6 +1,6 @@
 {
  "schema_version": "0.2",
- "generated_at": "2026-10-01T14:41:05Z",
+ "generated_at": "2026-10-01T22:31:05Z",
  "events": [
   {
    "id": "t28a8c83a334",
@@ -334,6 +334,19 @@
    "end": "2026-10-01T14:40:07Z",
    "result": "ok",
    "to_room": "sapling"
+  },
+  {
+   "id": "t0e682953e55",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-01T22:30:21Z",
+   "end": null,
+   "result": "running"
   }
  ]
 }
