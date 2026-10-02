@@ -1,6 +1,6 @@
 {
  "schema_version": "0.2",
- "generated_at": "2026-10-02T07:31:05Z",
+ "generated_at": "2026-10-02T07:36:05Z",
  "events": [
   {
    "id": "t28a8c83a334",
@@ -397,8 +397,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-02T07:31:01Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-02T07:33:49Z",
+   "result": "ok"
   }
  ]
 }
