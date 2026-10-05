@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-05T10:21:04Z",
+ "generated_at": "2026-10-05T10:26:04Z",
  "date": "2026-10-05",
  "events": [
   {
@@ -382,6 +382,38 @@
    "result": "ok",
    "act": "chat",
    "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "t210982b374c",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-05T10:21:00Z",
+   "end": "2026-10-05T10:22:00Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "t5c4a4d504c8",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-05T10:25:00Z",
+   "end": "2026-10-05T10:26:00Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "cowork",
    "outcome": "answer"
   }
  ]
