@@ -1,0 +1,21 @@
+{
+ "schema_version": "0.3",
+ "generated_at": "2026-10-05T19:26:05Z",
+ "date": "2026-10-06",
+ "events": [
+  {
+   "id": "t9d74bcc1fef",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-05T19:24:27Z",
+   "end": "2026-10-05T19:24:31Z",
+   "result": "ok",
+   "act": "report"
+  }
+ ]
+}
