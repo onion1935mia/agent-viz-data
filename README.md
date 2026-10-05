@@ -12,7 +12,6 @@
 |---|---|
 | `index.json` | 날짜 목록 `days`와 `generated_at`. 새 이벤트가 없어도 10분마다 `generated_at`이 새로 올라온다(수집기가 살아 있다는 표시) |
 | `events/YYYY-MM-DD.json` | 한국 날짜 기준으로 그날 시작한 이벤트. 최근 30일치 |
-| `events.json` | 옛 화면용(형식 0.2, 최근 7일). 새 화면이 퍼지면 지운다 |
 
 - 읽는 주소: `https://raw.githubusercontent.com/onion1935mia/agent-viz-data/main/` 아래 위 파일들. 읽기 전용이다.
 - 파일 하나는 500KB 이하, 하루 파일은 1500건 이하다.
