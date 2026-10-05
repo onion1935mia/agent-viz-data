@@ -1,0 +1,59 @@
+{
+ "schema_version": "0.3",
+ "generated_at": "2026-10-05T00:21:04Z",
+ "date": "2026-10-04",
+ "events": [
+  {
+   "id": "tb206d393269",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-03T22:30:35Z",
+   "end": "2026-10-03T22:31:58Z",
+   "result": "ok"
+  },
+  {
+   "id": "tf1b1a5d2ce4",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-04T11:30:19Z",
+   "end": "2026-10-04T11:31:29Z",
+   "result": "ok"
+  },
+  {
+   "id": "t3d3435bc7e8",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-04T12:00:20Z",
+   "end": "2026-10-04T12:01:24Z",
+   "result": "ok"
+  },
+  {
+   "id": "t57f19f9a394",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-04T12:01:37Z",
+   "end": "2026-10-04T12:02:04Z",
+   "result": "ok"
+  }
+ ]
+}
