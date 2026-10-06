@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-05T23:56:04Z",
+ "generated_at": "2026-10-06T11:51:04Z",
  "date": "2026-10-06",
  "events": [
   {
@@ -380,6 +380,92 @@
    "end": "2026-10-05T23:52:52Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "t844dd0528e5",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-06T11:48:39Z",
+   "end": "2026-10-06T11:51:03Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t41ada403d7e",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-06T11:48:58Z",
+   "end": "2026-10-06T11:49:02Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t24bc714b5c3",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-06T11:49:24Z",
+   "end": "2026-10-06T11:49:29Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tfac27e5f906",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-06T11:49:49Z",
+   "end": "2026-10-06T11:49:50Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t967ebd0e1b1",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-06T11:49:50Z",
+   "end": "2026-10-06T11:49:51Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "invest-agent"
+  },
+  {
+   "id": "t247c4f793d2",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-06T11:49:51Z",
+   "end": "2026-10-06T11:49:59Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "running-coach"
   }
  ]
 }
