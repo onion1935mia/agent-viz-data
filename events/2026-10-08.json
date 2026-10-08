@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-07T23:01:04Z",
+ "generated_at": "2026-10-08T03:11:05Z",
  "date": "2026-10-08",
  "events": [
   {
@@ -182,6 +182,73 @@
    "kind": "act",
    "start": "2026-10-07T22:54:10Z",
    "end": "2026-10-07T22:56:09Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "t3e9c6255aef",
+   "room": "sapling",
+   "agent": "collect",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-08T03:10:24Z",
+   "end": "2026-10-08T03:10:33Z",
+   "result": "ok"
+  },
+  {
+   "id": "t7a25577302d",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "deliver",
+   "start": "2026-10-08T03:10:24Z",
+   "end": "2026-10-08T03:10:24Z",
+   "result": "ok",
+   "to_room": "sapling"
+  },
+  {
+   "id": "t505090dc181",
+   "room": "sapling",
+   "agent": "gen-items",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-08T03:10:33Z",
+   "end": "2026-10-08T03:10:33Z",
+   "result": "ok"
+  },
+  {
+   "id": "t98cca06d71f",
+   "room": "sapling",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "wait_human",
+   "start": "2026-10-08T03:10:34Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "tab436bdf43d",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-08T03:10:34Z",
+   "end": "2026-10-08T03:10:38Z",
    "result": "ok",
    "act": "report"
   }
