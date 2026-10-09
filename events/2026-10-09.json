@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-09T10:31:04Z",
+ "generated_at": "2026-10-09T10:36:05Z",
  "date": "2026-10-09",
  "events": [
   {
@@ -320,8 +320,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-09T10:25:10Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-09T10:29:44Z",
+   "result": "ok"
   },
   {
    "id": "t22f0318b15a",
@@ -333,8 +333,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-09T10:30:11Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-09T10:30:51Z",
+   "result": "ok"
   },
   {
    "id": "t27446074597",
