@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-09T10:36:05Z",
+ "generated_at": "2026-10-09T10:56:04Z",
  "date": "2026-10-09",
  "events": [
   {
@@ -420,6 +420,20 @@
    "end": "2026-10-09T10:30:32Z",
    "result": "ok",
    "act": "search"
+  },
+  {
+   "id": "t1fc809850ea",
+   "room": "sapling",
+   "agent": "main",
+   "instance": 2,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "deliver",
+   "start": "2026-10-09T10:53:09Z",
+   "end": "2026-10-09T10:53:09Z",
+   "result": "ok",
+   "to_room": "mia-aide"
   }
  ]
 }
