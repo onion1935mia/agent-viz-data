@@ -1,6 +1,6 @@
 {
  "schema_version": "1",
- "generated_at": "2026-10-12T00:41:05Z",
+ "generated_at": "2026-10-12T00:46:05Z",
  "plants": [
   {
    "id": "p01",
@@ -177,13 +177,13 @@
    "id": "p12",
    "name": "등대",
    "cadence": "always",
-   "last_seen": "2026-10-12T00:40:24Z"
+   "last_seen": "2026-10-12T00:45:28Z"
   },
   {
    "id": "p13",
    "name": "반딧불",
    "cadence": "always",
-   "last_seen": "2026-10-12T00:41:05Z"
+   "last_seen": "2026-10-12T00:46:05Z"
   },
   {
    "id": "p14",
@@ -197,13 +197,17 @@
    "id": "p15",
    "name": "코스모스",
    "cadence": "daily",
-   "days": {}
+   "days": {
+    "2026-10-12": "ok"
+   }
   },
   {
    "id": "p16",
    "name": "목련",
    "cadence": "daily",
-   "days": {}
+   "days": {
+    "2026-10-12": "ok"
+   }
   }
  ]
 }
