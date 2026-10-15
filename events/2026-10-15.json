@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-15T14:06:05Z",
+ "generated_at": "2026-10-15T14:11:05Z",
  "date": "2026-10-15",
  "events": [
   {
@@ -937,14 +937,14 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-15T14:03:06Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-15T14:04:26Z",
+   "result": "ok"
   },
   {
    "id": "te32f15ff0b6",
    "room": "sapling",
    "agent": "extra",
-   "instance": 2,
+   "instance": 1,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
