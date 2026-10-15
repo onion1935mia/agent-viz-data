@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-15T12:56:04Z",
+ "generated_at": "2026-10-15T13:01:04Z",
  "date": "2026-10-15",
  "events": [
   {
@@ -683,19 +683,48 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-15T12:53:46Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-15T12:54:18Z",
+   "result": "ok"
   },
   {
    "id": "t727bd93378c",
    "room": "sapling",
    "agent": "extra",
-   "instance": 2,
+   "instance": 1,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-15T12:54:43Z",
+   "end": "2026-10-15T12:58:32Z",
+   "result": "ok"
+  },
+  {
+   "id": "tec91a08b5e9",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-15T12:58:00Z",
+   "end": "2026-10-15T12:59:00Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "cowork",
+   "outcome": "record"
+  },
+  {
+   "id": "tf5f25ba2c37",
+   "room": "sapling",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-15T12:59:03Z",
    "end": null,
    "result": "running"
   }
