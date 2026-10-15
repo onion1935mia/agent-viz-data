@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-15T23:51:04Z",
+ "generated_at": "2026-10-15T23:56:04Z",
  "date": "2026-10-16",
  "events": [
   {
@@ -1093,8 +1093,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-15T23:47:12Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-15T23:53:42Z",
+   "result": "ok"
   },
   {
    "id": "ta3db603dd4c",
@@ -1121,7 +1121,7 @@
    "parent_instance": 1,
    "kind": "act",
    "start": "2026-10-15T23:47:18Z",
-   "end": "2026-10-15T23:51:02Z",
+   "end": "2026-10-15T23:52:52Z",
    "result": "ok",
    "act": "desk"
   },
@@ -1137,6 +1137,76 @@
    "start": "2026-10-15T23:49:23Z",
    "end": "2026-10-15T23:49:35Z",
    "result": "ok"
+  },
+  {
+   "id": "s38826262238",
+   "room": "sapling",
+   "agent": "ci-check",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "work",
+   "start": "2026-10-15T23:53:27Z",
+   "end": "2026-10-15T23:55:06Z",
+   "result": "ok"
+  },
+  {
+   "id": "t7cf26564878",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-15T23:54:41Z",
+   "end": "2026-10-15T23:55:31Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tbba3f4648dd",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-15T23:55:45Z",
+   "end": "2026-10-15T23:55:53Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "schedule-agent"
+  },
+  {
+   "id": "t87232ef9ed9",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-15T23:55:48Z",
+   "end": "2026-10-15T23:55:58Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t8be9b5ffdd7",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-15T23:55:58Z",
+   "end": "2026-10-15T23:56:09Z",
+   "result": "ok",
+   "act": "mcp"
   }
  ]
 }
