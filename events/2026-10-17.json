@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-16T21:21:04Z",
+ "generated_at": "2026-10-16T22:31:04Z",
  "date": "2026-10-17",
  "events": [
   {
@@ -520,6 +520,90 @@
    "kind": "act",
    "start": "2026-10-16T21:18:31Z",
    "end": "2026-10-16T21:18:35Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t0ac547cb9e8",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-16T22:29:57Z",
+   "end": "2026-10-16T22:31:08Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "te8024b19678",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-16T22:29:57Z",
+   "end": "2026-10-16T22:29:57Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t83b6d5998bb",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-16T22:30:19Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "tc3217c11f3b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-16T22:30:20Z",
+   "end": "2026-10-16T22:30:28Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "running-coach"
+  },
+  {
+   "id": "t60f7458e356",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-16T22:30:22Z",
+   "end": "2026-10-16T22:30:26Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t7d09844f212",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-16T22:30:27Z",
+   "end": "2026-10-16T22:30:37Z",
    "result": "ok",
    "act": "mcp"
   }
