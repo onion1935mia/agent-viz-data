@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-18T22:31:05Z",
+ "generated_at": "2026-10-18T22:36:05Z",
  "date": "2026-10-19",
  "events": [
   {
@@ -1133,8 +1133,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-18T22:07:49Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-18T22:29:14Z",
+   "result": "ok"
   },
   {
    "id": "t9685e93b4da",
@@ -1281,7 +1281,7 @@
    "id": "t621dd1671fd",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 2,
+   "instance": 1,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
@@ -1309,13 +1309,13 @@
    "id": "t7c1f120e9ac",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 2,
+   "instance": 1,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
    "kind": "act",
    "start": "2026-10-18T22:29:47Z",
-   "end": "2026-10-18T22:31:03Z",
+   "end": "2026-10-18T22:32:10Z",
    "result": "ok",
    "act": "desk"
   },
@@ -1343,8 +1343,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-18T22:30:18Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-18T22:30:36Z",
+   "result": "ok"
   },
   {
    "id": "t7a8efa284d7",
@@ -1430,6 +1430,20 @@
    "end": "2026-10-18T22:30:40Z",
    "result": "ok",
    "act": "mcp"
+  },
+  {
+   "id": "t36f11b63d73",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-18T22:33:52Z",
+   "end": "2026-10-18T22:36:02Z",
+   "result": "ok",
+   "act": "desk"
   }
  ]
 }
