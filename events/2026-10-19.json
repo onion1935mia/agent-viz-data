@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-19T12:06:05Z",
+ "generated_at": "2026-10-19T12:11:05Z",
  "date": "2026-10-19",
  "events": [
   {
@@ -2421,6 +2421,20 @@
    "end": "2026-10-19T12:06:03Z",
    "result": "ok",
    "act": "desk"
+  },
+  {
+   "id": "tb8755e9122a",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-19T12:10:18Z",
+   "end": "2026-10-19T12:11:09Z",
+   "result": "ok",
+   "act": "mcp"
   }
  ]
 }
