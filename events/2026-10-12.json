@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-12T13:51:05Z",
+ "generated_at": "2026-10-20T21:31:04Z",
  "date": "2026-10-12",
  "events": [
   {
@@ -158,6 +158,22 @@
    "act": "desk"
   },
   {
+   "id": "t992afa8ed62",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-11T22:53:00Z",
+   "end": "2026-10-11T22:53:23Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "t725281d4122",
    "room": "mia-aide",
    "agent": "main",
@@ -170,6 +186,22 @@
    "end": "2026-10-11T22:53:27Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "t701d47d469a",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-11T22:55:56Z",
+   "end": "2026-10-11T22:56:28Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t24e2452c9ea",
@@ -200,6 +232,22 @@
    "act": "report"
   },
   {
+   "id": "t174fb428518",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-11T22:56:29Z",
+   "end": "2026-10-11T22:57:09Z",
+   "result": "fail",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "tc3f80f6ecdf",
    "room": "mia-aide",
    "agent": "main",
@@ -214,6 +262,22 @@
    "act": "desk"
   },
   {
+   "id": "t5ed19b75095",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-11T22:57:09Z",
+   "end": "2026-10-11T22:57:26Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "tb5266545116",
    "room": "mia-aide",
    "agent": "main",
@@ -226,6 +290,38 @@
    "end": "2026-10-11T22:57:58Z",
    "result": "ok",
    "act": "mcp"
+  },
+  {
+   "id": "tb6bbf382906",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-11T22:58:03Z",
+   "end": "2026-10-11T22:58:22Z",
+   "result": "fail",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "t7fba068065f",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-11T22:59:04Z",
+   "end": "2026-10-11T22:59:22Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t71de3e97511",
@@ -326,6 +422,22 @@
    "end": "2026-10-11T23:31:21Z",
    "result": "ok",
    "act": "desk"
+  },
+  {
+   "id": "tb6d36854f27",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-12T00:06:17Z",
+   "end": "2026-10-12T00:06:35Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t6f598caca77",
