@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-21T12:16:04Z",
+ "generated_at": "2026-10-21T15:01:05Z",
  "date": "2026-10-21",
  "events": [
   {
@@ -1086,6 +1086,19 @@
    "act": "desk"
   },
   {
+   "id": "s39518541721",
+   "room": "sapling",
+   "agent": "ci-check",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "work",
+   "start": "2026-10-20T23:59:46Z",
+   "end": "2026-10-20T23:59:59Z",
+   "result": "ok"
+  },
+  {
    "id": "t453f5f65503",
    "room": "mia-aide",
    "agent": "extra",
@@ -1168,6 +1181,32 @@
    "end": "2026-10-21T00:03:47Z",
    "result": "ok",
    "act": "mcp"
+  },
+  {
+   "id": "s39519288067",
+   "room": "sapling",
+   "agent": "gen-items",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "work",
+   "start": "2026-10-21T00:06:40Z",
+   "end": "2026-10-21T00:06:50Z",
+   "result": "ok"
+  },
+  {
+   "id": "s39519578315",
+   "room": "sapling",
+   "agent": "ci-check",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "work",
+   "start": "2026-10-21T00:09:25Z",
+   "end": "2026-10-21T00:11:13Z",
+   "result": "ok"
   },
   {
    "id": "t3e74f6afbbe",
