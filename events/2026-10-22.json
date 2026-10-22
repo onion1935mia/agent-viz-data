@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-22T11:51:05Z",
+ "generated_at": "2026-10-22T12:31:05Z",
  "date": "2026-10-22",
  "events": [
   {
@@ -375,8 +375,8 @@
    "parent_instance": null,
    "kind": "wait_human",
    "start": "2026-10-22T11:11:02Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-22T12:30:14Z",
+   "result": "ok"
   },
   {
    "id": "t71f9d6688c6",
@@ -405,6 +405,33 @@
    "result": "ok",
    "act": "talk",
    "with": "schedule-agent"
+  },
+  {
+   "id": "t4c81e5d475b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T12:30:14Z",
+   "end": "2026-10-22T12:30:22Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "t6242db19226",
+   "room": "sapling",
+   "agent": "ci-check",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-22T12:30:14Z",
+   "end": null,
+   "result": "running"
   }
  ]
 }
