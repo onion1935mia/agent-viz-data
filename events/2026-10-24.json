@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-23T23:21:04Z",
+ "generated_at": "2026-10-23T23:26:04Z",
  "date": "2026-10-24",
  "events": [
   {
@@ -1959,8 +1959,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-23T23:02:57Z",
-   "end": "2026-10-23T23:18:49Z",
-   "result": "ok"
+   "end": null,
+   "result": "running"
   },
   {
    "id": "tec95cfbc9b6",
@@ -2337,7 +2337,77 @@
    "parent_instance": 1,
    "kind": "act",
    "start": "2026-10-23T23:16:17Z",
-   "end": "2026-10-23T23:19:58Z",
+   "end": "2026-10-23T23:24:49Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t42eeb0f3fd3",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T23:25:02Z",
+   "end": "2026-10-23T23:25:06Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tc9b442ba1a0",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 3,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-23T23:25:23Z",
+   "end": "2026-10-23T23:25:45Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tcb5c35b4be9",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T23:25:34Z",
+   "end": "2026-10-23T23:25:42Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "extra"
+  },
+  {
+   "id": "tfac14a3e6d0",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 2,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-23T23:25:35Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "tac15f6ef248",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 2,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-23T23:25:40Z",
+   "end": "2026-10-23T23:25:55Z",
    "result": "ok",
    "act": "desk"
   }
