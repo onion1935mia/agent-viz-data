@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-23T10:41:05Z",
+ "generated_at": "2026-10-23T10:46:05Z",
  "date": "2026-10-23",
  "events": [
   {
@@ -407,11 +407,24 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-23T09:58:41Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-23T10:39:36Z",
+   "result": "ok"
   },
   {
    "id": "t91389032ae3",
+   "room": "sapling",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-23T10:40:02Z",
+   "end": "2026-10-23T10:41:11Z",
+   "result": "ok"
+  },
+  {
+   "id": "ta8799e94a4a",
    "room": "sapling",
    "agent": "extra",
    "instance": 2,
@@ -424,7 +437,20 @@
    "result": "running"
   },
   {
-   "id": "ta8799e94a4a",
+   "id": "t132d0a8c2b2",
+   "room": "sapling",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-23T10:45:27Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "t2724e9d3f9d",
    "room": "sapling",
    "agent": "extra",
    "instance": 3,
@@ -432,7 +458,20 @@
    "parent": "main",
    "parent_instance": 1,
    "kind": "work",
-   "start": "2026-10-23T10:40:02Z",
+   "start": "2026-10-23T10:45:27Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "tc8affdedea0",
+   "room": "sapling",
+   "agent": "extra",
+   "instance": 4,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-23T10:45:27Z",
    "end": null,
    "result": "running"
   }
