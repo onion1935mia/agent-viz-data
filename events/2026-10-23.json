@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-23T12:51:04Z",
+ "generated_at": "2026-10-23T12:56:04Z",
  "date": "2026-10-23",
  "events": [
   {
@@ -459,8 +459,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-23T10:45:27Z",
-   "end": "2026-10-23T10:49:04Z",
-   "result": "ok"
+   "end": null,
+   "result": "running"
   },
   {
    "id": "tc8affdedea0",
@@ -940,6 +940,90 @@
    "end": "2026-10-23T12:49:46Z",
    "result": "ok",
    "act": "record"
+  },
+  {
+   "id": "tc2c758705d7",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T12:54:21Z",
+   "end": "2026-10-23T12:54:25Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t6bb3d70df74",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-23T12:55:28Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "t088e343c476",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T12:55:29Z",
+   "end": "2026-10-23T12:55:37Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "schedule-agent"
+  },
+  {
+   "id": "tf772e4b87a0",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-23T12:55:32Z",
+   "end": "2026-10-23T12:55:36Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t431a2878c7c",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 2,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-23T12:55:59Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "t57c4d7340a4",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T12:56:00Z",
+   "end": "2026-10-23T12:56:08Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "schedule-agent"
   }
  ]
 }
