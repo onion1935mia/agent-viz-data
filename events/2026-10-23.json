@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-23T10:51:05Z",
+ "generated_at": "2026-10-23T11:21:04Z",
  "date": "2026-10-23",
  "events": [
   {
@@ -474,6 +474,62 @@
    "start": "2026-10-23T10:45:27Z",
    "end": "2026-10-23T10:48:45Z",
    "result": "ok"
+  },
+  {
+   "id": "tda79bd5be12",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T11:20:13Z",
+   "end": "2026-10-23T11:20:21Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "extra"
+  },
+  {
+   "id": "tf52edb09ae4",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-23T11:20:13Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "t393f7112223",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-23T11:20:16Z",
+   "end": "2026-10-23T11:20:20Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t6015a443c4d",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-23T11:20:20Z",
+   "end": "2026-10-23T11:20:32Z",
+   "result": "ok",
+   "act": "mcp"
   }
  ]
 }
