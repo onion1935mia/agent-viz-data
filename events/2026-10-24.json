@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-24T00:11:04Z",
+ "generated_at": "2026-10-24T01:26:05Z",
  "date": "2026-10-24",
  "events": [
   {
@@ -2463,6 +2463,90 @@
    "start": "2026-10-24T00:03:12Z",
    "end": "2026-10-24T00:09:21Z",
    "result": "ok"
+  },
+  {
+   "id": "t9cf267e0324",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-24T01:21:49Z",
+   "end": "2026-10-24T01:21:51Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "ta3a752e0b5c",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-24T01:21:51Z",
+   "end": "2026-10-24T01:21:55Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t1db5d253df8",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-24T01:22:47Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "t5fa418f1245",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-24T01:22:48Z",
+   "end": "2026-10-24T01:22:56Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "extra"
+  },
+  {
+   "id": "tcd31065d6ca",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-24T01:22:52Z",
+   "end": "2026-10-24T01:24:18Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t419d2a93d54",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-24T01:26:11Z",
+   "end": "2026-10-24T01:26:15Z",
+   "result": "ok",
+   "act": "desk"
   }
  ]
 }
