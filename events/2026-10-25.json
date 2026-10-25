@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-25T11:41:04Z",
+ "generated_at": "2026-10-25T11:46:04Z",
  "date": "2026-10-25",
  "events": [
   {
@@ -405,8 +405,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-25T11:40:55Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-25T11:43:36Z",
+   "result": "ok"
   },
   {
    "id": "t03510605038",
@@ -435,6 +435,90 @@
    "end": "2026-10-25T11:41:07Z",
    "result": "ok",
    "act": "desk"
+  },
+  {
+   "id": "tcacbd329cce",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-25T11:41:18Z",
+   "end": "2026-10-25T11:41:25Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "tcf28b1264c5",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-25T11:41:25Z",
+   "end": "2026-10-25T11:41:45Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t4d2c1d0d3d8",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-25T11:43:58Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "td71eadb1d0a",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T11:43:59Z",
+   "end": "2026-10-25T11:44:07Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "running-coach"
+  },
+  {
+   "id": "t9a7c04a5dc0",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-25T11:44:04Z",
+   "end": "2026-10-25T11:44:11Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "te1e23ca1e44",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-25T11:44:22Z",
+   "end": "2026-10-25T11:45:08Z",
+   "result": "ok",
+   "act": "mcp"
   }
  ]
 }
