@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-25T11:51:04Z",
+ "generated_at": "2026-10-25T12:06:04Z",
  "date": "2026-10-25",
  "events": [
   {
@@ -519,6 +519,92 @@
    "end": "2026-10-25T11:45:08Z",
    "result": "ok",
    "act": "mcp"
+  },
+  {
+   "id": "t01a858e5cc7",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T12:03:56Z",
+   "end": "2026-10-25T12:05:52Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "t1d7166a5fda",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T12:04:29Z",
+   "end": "2026-10-25T12:04:33Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t17733c98b85",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T12:04:41Z",
+   "end": "2026-10-25T12:04:46Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t83b5cc7d242",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T12:04:46Z",
+   "end": "2026-10-25T12:04:50Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tf43ff097a2b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T12:05:23Z",
+   "end": "2026-10-25T12:05:27Z",
+   "result": "ok",
+   "act": "record"
+  },
+  {
+   "id": "t87af95e0dc7",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T12:05:52Z",
+   "end": "2026-10-25T12:05:56Z",
+   "result": "ok",
+   "act": "report"
   }
  ]
 }
