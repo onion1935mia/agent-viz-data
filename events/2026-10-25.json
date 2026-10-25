@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-25T14:21:04Z",
+ "generated_at": "2026-10-25T14:26:04Z",
  "date": "2026-10-25",
  "events": [
   {
@@ -904,6 +904,91 @@
    "end": "2026-10-25T14:19:40Z",
    "result": "ok",
    "act": "desk"
+  },
+  {
+   "id": "tf92ca3a687c",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T14:21:47Z",
+   "end": "2026-10-25T14:21:51Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t9ef129f1af5",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T14:21:58Z",
+   "end": "2026-10-25T14:22:00Z",
+   "result": "ok",
+   "act": "record"
+  },
+  {
+   "id": "t77f551b7a5d",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T14:22:00Z",
+   "end": "2026-10-25T14:24:02Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t0b1a1d3f9e5",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T14:24:15Z",
+   "end": "2026-10-25T14:24:23Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "extra"
+  },
+  {
+   "id": "t84b6b022359",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-25T14:24:21Z",
+   "end": "2026-10-25T14:25:58Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t054f1c66384",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-25T14:24:23Z",
+   "end": "2026-10-25T14:24:30Z",
+   "result": "ok",
+   "act": "mcp"
   }
  ]
 }
