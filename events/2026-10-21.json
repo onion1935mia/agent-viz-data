@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-25T13:51:04Z",
+ "generated_at": "2026-10-28T13:11:05Z",
  "date": "2026-10-21",
  "events": [
   {
@@ -381,14 +381,14 @@
    "id": "t6413b967fcf",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 1,
+   "instance": 3,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-20T21:02:49Z",
-   "end": "2026-10-20T21:06:09Z",
-   "result": "ok"
+   "end": null,
+   "result": "running"
   },
   {
    "id": "tcd1281f3177",
@@ -423,7 +423,7 @@
    "id": "te3a301524cf",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 1,
+   "instance": 3,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
@@ -451,14 +451,14 @@
    "id": "tf1d3810470d",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 2,
+   "instance": 4,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-20T21:05:59Z",
-   "end": "2026-10-20T21:19:31Z",
-   "result": "ok"
+   "end": null,
+   "result": "running"
   },
   {
    "id": "tf728faed13a",
@@ -479,7 +479,7 @@
    "id": "ta4962039bcd",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 2,
+   "instance": 4,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
@@ -563,7 +563,7 @@
    "id": "tadfe55401be",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 2,
+   "instance": 4,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
@@ -1102,14 +1102,14 @@
    "id": "t453f5f65503",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 1,
+   "instance": 5,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-20T23:59:50Z",
-   "end": "2026-10-21T00:03:16Z",
-   "result": "ok"
+   "end": null,
+   "result": "running"
   },
   {
    "id": "te5ee311701a",
@@ -1130,7 +1130,7 @@
    "id": "t747cf2ab868",
    "room": "mia-aide",
    "agent": "extra",
-   "instance": 1,
+   "instance": 5,
    "depth": 1,
    "parent": "main",
    "parent_instance": 1,
