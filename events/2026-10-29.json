@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-28T21:21:05Z",
+ "generated_at": "2026-10-28T21:31:05Z",
  "date": "2026-10-29",
  "events": [
   {
@@ -1248,6 +1248,90 @@
    "kind": "act",
    "start": "2026-10-28T21:11:25Z",
    "end": "2026-10-28T21:11:29Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t96ad1effc65",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-28T21:21:31Z",
+   "end": "2026-10-28T21:21:41Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "tf600d20945d",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-28T21:21:42Z",
+   "end": "2026-10-28T21:22:20Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t2614548eea8",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-28T21:30:58Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "tdd6bfec5641",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-28T21:30:59Z",
+   "end": "2026-10-28T21:31:07Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "schedule-agent"
+  },
+  {
+   "id": "t2a457fa8dfa",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-28T21:31:03Z",
+   "end": "2026-10-28T21:31:08Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t5be03d816cd",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-28T21:31:11Z",
+   "end": "2026-10-28T21:31:20Z",
    "result": "ok",
    "act": "mcp"
   }
