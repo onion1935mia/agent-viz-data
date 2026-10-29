@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-29T11:46:05Z",
+ "generated_at": "2026-10-29T11:51:05Z",
  "date": "2026-10-29",
  "events": [
   {
@@ -1662,8 +1662,8 @@
    "parent_instance": null,
    "kind": "wait_human",
    "start": "2026-10-29T11:10:50Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-29T11:49:49Z",
+   "result": "ok"
   },
   {
    "id": "tcf781ae51ec",
@@ -1703,8 +1703,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-29T11:45:49Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-29T11:46:29Z",
+   "result": "ok"
   },
   {
    "id": "tcb2415d69eb",
@@ -1720,6 +1720,47 @@
    "result": "ok",
    "act": "talk",
    "with": "schedule-agent"
+  },
+  {
+   "id": "t1f85c274f88",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-29T11:46:20Z",
+   "end": "2026-10-29T11:46:24Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t12deb2f06aa",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-29T11:49:49Z",
+   "end": "2026-10-29T11:49:53Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "tb1c5409f0ce",
+   "room": "sapling",
+   "agent": "ci-check",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-29T11:49:49Z",
+   "end": null,
+   "result": "running"
   }
  ]
 }
