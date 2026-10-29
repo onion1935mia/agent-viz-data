@@ -1,0 +1,20 @@
+{
+ "schema_version": "0.3",
+ "generated_at": "2026-10-29T15:01:04Z",
+ "date": "2026-10-30",
+ "events": [
+  {
+   "id": "t121f5633e20",
+   "room": "sapling",
+   "agent": "extra",
+   "instance": 2,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-10-29T15:00:13Z",
+   "end": null,
+   "result": "running"
+  }
+ ]
+}
