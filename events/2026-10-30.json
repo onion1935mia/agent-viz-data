@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-30T00:06:04Z",
+ "generated_at": "2026-10-30T00:11:04Z",
  "date": "2026-10-30",
  "events": [
   {
@@ -677,8 +677,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-30T00:05:16Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-30T00:06:34Z",
+   "result": "ok"
   },
   {
    "id": "t6e146deeb0a",
@@ -705,7 +705,7 @@
    "parent_instance": 1,
    "kind": "act",
    "start": "2026-10-30T00:05:21Z",
-   "end": "2026-10-30T00:06:05Z",
+   "end": "2026-10-30T00:06:39Z",
    "result": "ok",
    "act": "desk"
   },
