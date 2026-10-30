@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-30T11:21:04Z",
+ "generated_at": "2026-10-30T11:26:04Z",
  "date": "2026-10-30",
  "events": [
   {
@@ -2370,8 +2370,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-10-30T11:20:14Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-10-30T11:21:21Z",
+   "result": "ok"
   },
   {
    "id": "t68bac86b969",
@@ -2415,6 +2415,90 @@
    "end": "2026-10-30T11:20:50Z",
    "result": "ok",
    "act": "mcp"
+  },
+  {
+   "id": "tc41d1527fe5",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-30T11:21:07Z",
+   "end": "2026-10-30T11:21:11Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tb3027da1cd3",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-30T11:21:12Z",
+   "end": "2026-10-30T11:21:17Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "t646648033f1",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-30T11:21:29Z",
+   "end": "2026-10-30T11:21:38Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t323fb72531e",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-30T11:21:38Z",
+   "end": "2026-10-30T11:21:43Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t481a30e44f1",
+   "room": "mia-aide",
+   "agent": "reed",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-10-30T11:24:15Z",
+   "end": "2026-10-30T11:24:35Z",
+   "result": "ok",
+   "act": "record"
+  },
+  {
+   "id": "tebac31c947c",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-30T11:24:16Z",
+   "end": "2026-10-30T11:24:39Z",
+   "result": "ok",
+   "act": "report"
   }
  ]
 }
