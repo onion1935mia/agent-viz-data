@@ -1,0 +1,35 @@
+{
+ "schema_version": "0.3",
+ "generated_at": "2026-10-30T21:21:05Z",
+ "date": "2026-10-31",
+ "events": [
+  {
+   "id": "t00fc799c517",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-30T21:20:39Z",
+   "end": "2026-10-30T21:20:43Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "tf545745f508",
+   "room": "mia-aide",
+   "agent": "reed",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "deliver",
+   "start": "2026-10-30T21:20:39Z",
+   "end": "2026-10-30T21:20:39Z",
+   "result": "ok",
+   "to_room": "sapling"
+  }
+ ]
+}
