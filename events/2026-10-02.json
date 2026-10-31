@@ -1,21 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-14T13:31:04Z",
+ "generated_at": "2026-10-31T22:31:04Z",
  "date": "2026-10-02",
  "events": [
-  {
-   "id": "t0e682953e55",
-   "room": "mia-aide",
-   "agent": "running-coach",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "work",
-   "start": "2026-10-01T22:30:21Z",
-   "end": "2026-10-01T22:31:25Z",
-   "result": "ok"
-  },
   {
    "id": "t95d140e560d",
    "room": "mia-aide",
