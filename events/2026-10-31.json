@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-31T00:56:04Z",
+ "generated_at": "2026-10-31T01:01:04Z",
  "date": "2026-10-31",
  "events": [
   {
@@ -419,6 +419,90 @@
    "kind": "act",
    "start": "2026-10-31T00:56:03Z",
    "end": "2026-10-31T00:56:07Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "te85e729906e",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-31T00:56:08Z",
+   "end": "2026-10-31T00:56:12Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t488375677f4",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-31T00:56:25Z",
+   "end": "2026-10-31T00:56:28Z",
+   "result": "ok",
+   "act": "record"
+  },
+  {
+   "id": "t7182e3af9d5",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-31T00:56:28Z",
+   "end": "2026-10-31T00:56:32Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t253db2c89d0",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-31T00:56:34Z",
+   "end": "2026-10-31T00:56:38Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t3af18a6e4a9",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-31T01:00:39Z",
+   "end": "2026-10-31T01:00:41Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t292511dea4f",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-31T01:00:41Z",
+   "end": "2026-10-31T01:00:57Z",
    "result": "ok",
    "act": "desk"
   }
