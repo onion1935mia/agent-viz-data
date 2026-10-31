@@ -1,21 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-31T03:11:04Z",
+ "generated_at": "2026-10-31T03:16:05Z",
  "date": "2026-10-01",
  "events": [
-  {
-   "id": "t80e221bd2c0",
-   "room": "sapling",
-   "agent": "ci-check",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "work",
-   "start": "2026-10-01T03:13:26Z",
-   "end": "2026-10-01T03:15:10Z",
-   "result": "ok"
-  },
   {
    "id": "ta5624bbd6a7",
    "room": "mia-aide",
