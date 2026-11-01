@@ -1,21 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-10-31T22:51:04Z",
+ "generated_at": "2026-11-01T03:06:05Z",
  "date": "2026-10-02",
  "events": [
-  {
-   "id": "t1c7ed486307",
-   "room": "mia-aide",
-   "agent": "extra",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "work",
-   "start": "2026-10-02T03:03:53Z",
-   "end": "2026-10-02T03:03:59Z",
-   "result": "ok"
-  },
   {
    "id": "t5206fb897fc",
    "room": "mia-aide",
