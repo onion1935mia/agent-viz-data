@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-04T11:36:04Z",
+ "generated_at": "2026-11-04T11:46:04Z",
  "date": "2026-11-04",
  "events": [
   {
@@ -166,6 +166,48 @@
    "start": "2026-11-04T11:31:38Z",
    "end": "2026-11-04T11:31:58Z",
    "result": "ok"
+  },
+  {
+   "id": "ta1e1ed912e1",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-11-04T11:45:28Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "t06c0a22b170",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-04T11:45:29Z",
+   "end": "2026-11-04T11:45:37Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "schedule-agent"
+  },
+  {
+   "id": "tbbb78baf4a9",
+   "room": "mia-aide",
+   "agent": "schedule-agent",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-11-04T11:45:47Z",
+   "end": "2026-11-04T11:45:51Z",
+   "result": "ok",
+   "act": "mcp"
   }
  ]
 }
