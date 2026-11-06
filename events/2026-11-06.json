@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-06T13:21:05Z",
+ "generated_at": "2026-11-06T13:26:05Z",
  "date": "2026-11-06",
  "events": [
   {
@@ -643,6 +643,108 @@
    "end": "2026-11-06T13:19:33Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "t47e952b926d",
+   "room": "mia-aide",
+   "agent": "work-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-06T13:22:37Z",
+   "end": "2026-11-06T13:24:01Z",
+   "result": "fail",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "tcedf5bc21c9",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-06T13:22:52Z",
+   "end": "2026-11-06T13:22:57Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "td32d61889a2",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-06T13:23:21Z",
+   "end": "2026-11-06T13:23:25Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "tb13ab71b7db",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-06T13:23:41Z",
+   "end": "2026-11-06T13:25:07Z",
+   "result": "ok",
+   "act": "record"
+  },
+  {
+   "id": "t8f39b92c284",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-06T13:23:59Z",
+   "end": "2026-11-06T13:26:09Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "tbf111a04a7a",
+   "room": "mia-aide",
+   "agent": "work-agent",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-06T13:24:37Z",
+   "end": "2026-11-06T13:25:23Z",
+   "result": "fail",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "t884e15f6c96",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-06T13:25:45Z",
+   "end": "2026-11-06T13:25:56Z",
+   "result": "ok",
+   "act": "mcp"
   }
  ]
 }
