@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-06T01:56:05Z",
+ "generated_at": "2026-11-06T11:11:05Z",
  "date": "2026-11-06",
  "events": [
   {
@@ -223,6 +223,90 @@
    "start": "2026-11-06T01:49:14Z",
    "end": "2026-11-06T01:51:18Z",
    "result": "ok"
+  },
+  {
+   "id": "t0e6fa629558",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-11-06T11:10:24Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "t70dd613aaeb",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-06T11:10:25Z",
+   "end": "2026-11-06T11:10:33Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "running-coach"
+  },
+  {
+   "id": "tca21c938eaa",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-11-06T11:10:28Z",
+   "end": "2026-11-06T11:10:32Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t0d87b1c1906",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-11-06T11:10:34Z",
+   "end": "2026-11-06T11:10:34Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "tc7f19e6f6a4",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-11-06T11:10:34Z",
+   "end": "2026-11-06T11:10:38Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t0cd0002fffc",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-11-06T11:10:42Z",
+   "end": "2026-11-06T11:10:46Z",
+   "result": "ok",
+   "act": "mcp"
   }
  ]
 }
