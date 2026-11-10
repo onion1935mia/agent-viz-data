@@ -1,24 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-10T23:01:05Z",
+ "generated_at": "2026-11-10T23:21:05Z",
  "date": "2026-10-12",
  "events": [
-  {
-   "id": "t71de3e97511",
-   "room": "mia-aide",
-   "agent": "schedule-agent",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "act",
-   "start": "2026-10-11T23:17:00Z",
-   "end": "2026-10-11T23:18:00Z",
-   "result": "ok",
-   "act": "chat",
-   "channel": "cowork",
-   "outcome": "record"
-  },
   {
    "id": "t88264483c29",
    "room": "mia-aide",
