@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-10T13:51:04Z",
+ "generated_at": "2026-11-10T14:16:05Z",
  "date": "2026-11-10",
  "events": [
   {
@@ -431,6 +431,76 @@
    "kind": "act",
    "start": "2026-11-10T13:46:36Z",
    "end": "2026-11-10T13:47:38Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t1a7cc67a5d6",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-10T14:14:23Z",
+   "end": "2026-11-10T14:14:27Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t1464c160663",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-10T14:14:36Z",
+   "end": "2026-11-10T14:14:39Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "te1fae8c7029",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-10T14:14:39Z",
+   "end": "2026-11-10T14:15:08Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t51724bec3a0",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-10T14:15:15Z",
+   "end": "2026-11-10T14:15:24Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t44483c5ac2b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-10T14:15:42Z",
+   "end": "2026-11-10T14:15:46Z",
    "result": "ok",
    "act": "desk"
   }
