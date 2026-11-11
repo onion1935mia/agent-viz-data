@@ -1,6 +1,6 @@
 {
  "schema_version": "1",
- "generated_at": "2026-11-10T23:51:05Z",
+ "generated_at": "2026-11-11T00:06:05Z",
  "plants": [
   {
    "id": "p01",
@@ -349,13 +349,13 @@
    "id": "p12",
    "name": "등대",
    "cadence": "always",
-   "last_seen": "2026-11-10T23:51:05Z"
+   "last_seen": "2026-11-11T00:05:58Z"
   },
   {
    "id": "p13",
    "name": "반딧불",
    "cadence": "always",
-   "last_seen": "2026-11-10T23:51:05Z"
+   "last_seen": "2026-11-11T00:06:05Z"
   },
   {
    "id": "p14",
