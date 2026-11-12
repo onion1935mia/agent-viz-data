@@ -1,24 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-12T22:51:04Z",
+ "generated_at": "2026-11-12T22:56:04Z",
  "date": "2026-10-14",
  "events": [
-  {
-   "id": "t4fa8fef0b49",
-   "room": "mia-aide",
-   "agent": "schedule-agent",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "act",
-   "start": "2026-10-13T22:55:52Z",
-   "end": "2026-10-13T22:56:59Z",
-   "result": "ok",
-   "act": "chat",
-   "channel": "chat",
-   "outcome": "answer"
-  },
   {
    "id": "t45a4564cbf0",
    "room": "mia-aide",
