@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-12T02:46:04Z",
+ "generated_at": "2026-11-12T08:01:04Z",
  "date": "2026-11-12",
  "events": [
   {
@@ -125,6 +125,90 @@
    "start": "2026-11-12T02:31:59Z",
    "end": "2026-11-12T02:33:53Z",
    "result": "ok"
+  },
+  {
+   "id": "t0e42ebc5a10",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-12T07:59:03Z",
+   "end": "2026-11-12T07:59:04Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t8a83be917b5",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-12T07:59:04Z",
+   "end": "2026-11-12T07:59:52Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tbdca5f4b1f8",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-12T08:00:06Z",
+   "end": "2026-11-12T08:00:19Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t718e4acdc13",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-12T08:00:19Z",
+   "end": "2026-11-12T08:00:25Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t794357a2c7b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-12T08:00:19Z",
+   "end": "2026-11-12T08:00:20Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t05b20838f28",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-12T08:00:20Z",
+   "end": "2026-11-12T08:00:54Z",
+   "result": "ok",
+   "act": "desk"
   }
  ]
 }
