@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-13T02:16:04Z",
+ "generated_at": "2026-11-13T11:11:04Z",
  "date": "2026-11-13",
  "events": [
   {
@@ -69,6 +69,76 @@
    "start": "2026-11-13T02:09:29Z",
    "end": "2026-11-13T02:11:47Z",
    "result": "ok"
+  },
+  {
+   "id": "te20a3a53f77",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-11-13T11:10:31Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "tcf4dbe0e539",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-13T11:10:32Z",
+   "end": "2026-11-13T11:10:40Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "running-coach"
+  },
+  {
+   "id": "t49966343d31",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-11-13T11:10:39Z",
+   "end": "2026-11-13T11:10:43Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t4feeeffea7c",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-11-13T11:10:47Z",
+   "end": "2026-11-13T11:10:56Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "ta65f860cf8d",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-13T11:11:07Z",
+   "end": "2026-11-13T11:11:11Z",
+   "result": "ok",
+   "act": "desk"
   }
  ]
 }
