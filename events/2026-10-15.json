@@ -1,34 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-14T12:41:05Z",
+ "generated_at": "2026-11-14T12:46:05Z",
  "date": "2026-10-15",
  "events": [
-  {
-   "id": "t29558a55e22",
-   "room": "sapling",
-   "agent": "extra",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "work",
-   "start": "2026-10-15T12:43:06Z",
-   "end": "2026-10-15T12:43:31Z",
-   "result": "ok"
-  },
-  {
-   "id": "t42fc64a0706",
-   "room": "sapling",
-   "agent": "extra",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "work",
-   "start": "2026-10-15T12:44:11Z",
-   "end": "2026-10-15T12:46:02Z",
-   "result": "ok"
-  },
   {
    "id": "t8238cf596bf",
    "room": "sapling",
