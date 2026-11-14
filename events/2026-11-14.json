@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-14T00:31:04Z",
+ "generated_at": "2026-11-14T00:36:04Z",
  "date": "2026-11-14",
  "events": [
   {
@@ -188,6 +188,92 @@
    "end": "2026-11-14T00:30:11Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "t417ce0365b8",
+   "room": "mia-aide",
+   "agent": "running-coach",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-14T00:31:53Z",
+   "end": "2026-11-14T00:33:46Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "t1cefeebd8fa",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-14T00:32:10Z",
+   "end": "2026-11-14T00:32:15Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t378c30ded04",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-14T00:32:21Z",
+   "end": "2026-11-14T00:33:16Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "td6fa9d7a804",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-14T00:33:24Z",
+   "end": "2026-11-14T00:33:28Z",
+   "result": "ok",
+   "act": "record"
+  },
+  {
+   "id": "tf3e7adb3b31",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-14T00:33:46Z",
+   "end": "2026-11-14T00:34:32Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "t7b1cddd4d84",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-14T00:34:16Z",
+   "end": "2026-11-14T00:34:25Z",
+   "result": "ok",
+   "act": "record"
   }
  ]
 }
