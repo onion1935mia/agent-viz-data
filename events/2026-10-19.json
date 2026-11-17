@@ -1,34 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-17T23:36:05Z",
+ "generated_at": "2026-11-17T23:41:05Z",
  "date": "2026-10-19",
  "events": [
-  {
-   "id": "s39177268866",
-   "room": "sapling",
-   "agent": "gen-items",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "work",
-   "start": "2026-10-18T23:37:02Z",
-   "end": "2026-10-18T23:37:12Z",
-   "result": "ok"
-  },
-  {
-   "id": "s39177545876",
-   "room": "sapling",
-   "agent": "ci-check",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "work",
-   "start": "2026-10-18T23:41:03Z",
-   "end": "2026-10-18T23:42:51Z",
-   "result": "ok"
-  },
   {
    "id": "t405850d03a5",
    "room": "mia-aide",
