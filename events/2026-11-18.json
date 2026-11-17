@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-17T22:51:05Z",
+ "generated_at": "2026-11-17T23:11:05Z",
  "date": "2026-11-18",
  "events": [
   {
@@ -112,6 +112,90 @@
    "kind": "act",
    "start": "2026-11-17T22:50:22Z",
    "end": "2026-11-17T22:50:26Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "t6fc73b5dc1d",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-17T23:09:22Z",
+   "end": "2026-11-17T23:09:26Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t6cb5f02f397",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-17T23:09:34Z",
+   "end": "2026-11-17T23:09:35Z",
+   "result": "ok",
+   "act": "talk",
+   "with": "extra"
+  },
+  {
+   "id": "tbfa195265b7",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-11-17T23:09:34Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "t214feb2839a",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-17T23:09:35Z",
+   "end": "2026-11-17T23:10:12Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tc1276ff3a4a",
+   "room": "mia-aide",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "act",
+   "start": "2026-11-17T23:09:42Z",
+   "end": "2026-11-17T23:09:49Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tc688019b44e",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-17T23:10:24Z",
+   "end": "2026-11-17T23:10:28Z",
    "result": "ok",
    "act": "report"
   }
