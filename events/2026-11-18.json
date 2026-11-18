@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-18T12:56:04Z",
+ "generated_at": "2026-11-18T14:16:04Z",
  "date": "2026-11-18",
  "events": [
   {
@@ -754,6 +754,34 @@
    "end": "2026-11-18T12:52:13Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "tc36240a53e4",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-18T14:14:52Z",
+   "end": "2026-11-18T14:14:56Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "tf123e8836bf",
+   "room": "mia-aide",
+   "agent": "reed",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "deliver",
+   "start": "2026-11-18T14:14:52Z",
+   "end": "2026-11-18T14:14:52Z",
+   "result": "ok",
+   "to_room": "sapling"
   }
  ]
 }
