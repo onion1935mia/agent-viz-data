@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-08T10:21:05Z",
+ "generated_at": "2026-11-20T11:41:04Z",
  "date": "2026-10-23",
  "events": [
   {
@@ -144,6 +144,22 @@
    "act": "mcp"
   },
   {
+   "id": "t479bb9e2d83",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T22:51:26Z",
+   "end": "2026-10-22T22:51:54Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "t8086d22b7c0",
    "room": "mia-aide",
    "agent": "main",
@@ -170,6 +186,22 @@
    "end": "2026-10-22T22:51:58Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "t868af37fcb8",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T22:53:53Z",
+   "end": "2026-10-22T22:54:15Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "ask"
   },
   {
    "id": "t9c6b1e90d68",
@@ -200,6 +232,54 @@
    "act": "mcp"
   },
   {
+   "id": "t7e5b53c8bed",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T22:54:58Z",
+   "end": "2026-10-22T22:55:15Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "tad848f31192",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T22:55:44Z",
+   "end": "2026-10-22T22:56:02Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "te58609d59b2",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T22:57:07Z",
+   "end": "2026-10-22T22:59:17Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "tecfaf8d1fac",
    "room": "mia-aide",
    "agent": "main",
@@ -226,6 +306,22 @@
    "end": "2026-10-22T22:59:21Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "tdf59f20d0e4",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T23:00:53Z",
+   "end": "2026-10-22T23:01:25Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "tb4d168d3a42",
@@ -270,6 +366,22 @@
    "act": "report"
   },
   {
+   "id": "t452712edba3",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T23:06:09Z",
+   "end": "2026-10-22T23:06:42Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "t3b5253e94d7",
    "room": "mia-aide",
    "agent": "main",
@@ -310,6 +422,38 @@
    "end": "2026-10-22T23:07:47Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "t7e858f95bf4",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T23:06:59Z",
+   "end": "2026-10-22T23:07:16Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
+   "id": "t6224e463b21",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-22T23:07:17Z",
+   "end": "2026-10-22T23:07:43Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t96810a1b9f2",
@@ -739,6 +883,22 @@
    "result": "ok"
   },
   {
+   "id": "t2e30cb67b9b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T12:35:00Z",
+   "end": "2026-10-23T12:35:26Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "tab4b6d4bbf2",
    "room": "mia-aide",
    "agent": "main",
@@ -867,6 +1027,38 @@
    "act": "record"
   },
   {
+   "id": "t1661c54385a",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T12:43:08Z",
+   "end": "2026-10-23T12:43:29Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "ask"
+  },
+  {
+   "id": "t79d48e9f9c3",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T12:44:23Z",
+   "end": "2026-10-23T12:44:56Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "tf807856d4f5",
    "room": "mia-aide",
    "agent": "main",
@@ -953,6 +1145,22 @@
    "act": "report"
   },
   {
+   "id": "tc23ef851f4e",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T12:49:07Z",
+   "end": "2026-10-23T12:49:20Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "te5e7e9741ae",
    "room": "mia-aide",
    "agent": "main",
@@ -979,6 +1187,22 @@
    "end": "2026-10-23T12:49:46Z",
    "result": "ok",
    "act": "record"
+  },
+  {
+   "id": "t0a13b117db0",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-23T12:50:50Z",
+   "end": "2026-10-23T12:51:02Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "tc2c758705d7",
