@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-18T14:46:04Z",
+ "generated_at": "2026-11-20T11:31:04Z",
  "date": "2026-11-18",
  "events": [
   {
@@ -60,6 +60,22 @@
    "act": "mcp"
   },
   {
+   "id": "teedb5be163d",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-17T22:48:50Z",
+   "end": "2026-11-17T22:50:22Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "tc9274c5bf61",
    "room": "mia-aide",
    "agent": "main",
@@ -114,6 +130,22 @@
    "end": "2026-11-17T22:50:26Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "tf89152cdb9b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-17T23:09:04Z",
+   "end": "2026-11-17T23:10:24Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t6fc73b5dc1d",
@@ -282,6 +314,22 @@
    "end": "2026-11-17T23:32:03Z",
    "result": "ok",
    "act": "desk"
+  },
+  {
+   "id": "t178d95133e9",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-17T23:41:36Z",
+   "end": "2026-11-17T23:41:54Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t24579c628f0",
@@ -726,6 +774,22 @@
    "end": "2026-11-18T12:51:10Z",
    "result": "ok",
    "act": "mcp"
+  },
+  {
+   "id": "t3582fa9004e",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-18T12:51:41Z",
+   "end": "2026-11-18T12:52:09Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t7a41d77f2a6",
