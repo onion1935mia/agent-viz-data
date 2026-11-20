@@ -1,8 +1,24 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-20T00:41:04Z",
+ "generated_at": "2026-11-20T11:41:04Z",
  "date": "2026-10-21",
  "events": [
+  {
+   "id": "ta5b36fc7641",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-21T12:02:49Z",
+   "end": "2026-10-21T12:03:00Z",
+   "result": "fail",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
   {
    "id": "t043c1253dc0",
    "room": "mia-aide",
@@ -16,6 +32,22 @@
    "end": "2026-10-21T12:03:05Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "tc7f9e198bdc",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-21T12:06:28Z",
+   "end": "2026-10-21T12:06:42Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t9916ddfd6b0",
@@ -32,6 +64,22 @@
    "act": "report"
   },
   {
+   "id": "t06bf65070eb",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-21T12:13:39Z",
+   "end": "2026-10-21T12:13:53Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "t1490184a673",
    "room": "mia-aide",
    "agent": "main",
@@ -44,6 +92,22 @@
    "end": "2026-10-21T12:15:43Z",
    "result": "ok",
    "act": "report"
+  },
+  {
+   "id": "t45b81716514",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-21T12:14:50Z",
+   "end": "2026-10-21T12:15:04Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "ask"
   },
   {
    "id": "t36e1821b070",
