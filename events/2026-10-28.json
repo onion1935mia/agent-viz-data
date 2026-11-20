@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-08T10:21:05Z",
+ "generated_at": "2026-11-20T11:41:04Z",
  "date": "2026-10-28",
  "events": [
   {
@@ -200,6 +200,22 @@
    "act": "desk"
   },
   {
+   "id": "tc670b24e05d",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-27T21:49:25Z",
+   "end": "2026-10-27T21:51:20Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "t67eb5f7d738",
    "room": "mia-aide",
    "agent": "main",
@@ -268,6 +284,22 @@
    "end": "2026-10-27T21:52:51Z",
    "result": "ok",
    "act": "mcp"
+  },
+  {
+   "id": "td8fa4a73a12",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-27T21:59:04Z",
+   "end": "2026-10-27T21:59:46Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "ask"
   },
   {
    "id": "t6ff439314c4",
@@ -449,6 +481,22 @@
    "act": "desk"
   },
   {
+   "id": "t5ae017620e0",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-28T12:09:17Z",
+   "end": "2026-10-28T12:10:36Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "t5b445e56bb1",
    "room": "mia-aide",
    "agent": "main",
@@ -505,6 +553,22 @@
    "act": "report"
   },
   {
+   "id": "t7f2f54ff361",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-28T12:13:04Z",
+   "end": "2026-10-28T12:14:37Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
+  },
+  {
    "id": "te201d4e18f1",
    "room": "mia-aide",
    "agent": "main",
@@ -559,6 +623,22 @@
    "end": "2026-10-28T12:48:14Z",
    "result": "ok",
    "act": "desk"
+  },
+  {
+   "id": "t821f5a1a78b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-10-28T12:50:59Z",
+   "end": "2026-10-28T12:59:18Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "answer"
   },
   {
    "id": "t46194bdd95a",
