@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-20T11:31:04Z",
+ "generated_at": "2026-11-20T12:06:04Z",
  "date": "2026-11-15",
  "events": [
   {
@@ -399,22 +399,6 @@
    "end": "2026-11-15T11:20:51Z",
    "result": "ok",
    "act": "desk"
-  },
-  {
-   "id": "t44b9296e8d7",
-   "room": "mia-aide",
-   "agent": "running-coach",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "act",
-   "start": "2026-11-15T11:27:00Z",
-   "end": "2026-11-15T11:28:00Z",
-   "result": "ok",
-   "act": "chat",
-   "channel": "chat",
-   "outcome": "answer"
   },
   {
    "id": "t64a2c246091",
