@@ -1,35 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-21T11:46:05Z",
+ "generated_at": "2026-11-21T12:31:04Z",
  "date": "2026-10-22",
  "events": [
-  {
-   "id": "t4c81e5d475b",
-   "room": "mia-aide",
-   "agent": "main",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "act",
-   "start": "2026-10-22T12:30:14Z",
-   "end": "2026-10-22T12:30:22Z",
-   "result": "ok",
-   "act": "report"
-  },
-  {
-   "id": "t6242db19226",
-   "room": "sapling",
-   "agent": "ci-check",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "work",
-   "start": "2026-10-22T12:30:14Z",
-   "end": "2026-10-22T12:32:01Z",
-   "result": "ok"
-  },
   {
    "id": "t813d3f1a533",
    "room": "mia-aide",
