@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-23T11:11:05Z",
+ "generated_at": "2026-11-23T11:16:04Z",
  "date": "2026-11-23",
  "events": [
   {
@@ -555,8 +555,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-11-23T11:10:28Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-11-23T11:10:52Z",
+   "result": "ok"
   },
   {
    "id": "t85b3e5d5b5c",
