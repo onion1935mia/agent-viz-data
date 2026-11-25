@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-25T11:51:04Z",
+ "generated_at": "2026-11-25T14:01:04Z",
  "date": "2026-11-25",
  "events": [
   {
@@ -266,6 +266,92 @@
    "end": "2026-11-25T11:46:00Z",
    "result": "ok",
    "act": "mcp"
+  },
+  {
+   "id": "te0670fade0a",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-25T13:59:21Z",
+   "end": "2026-11-25T14:00:22Z",
+   "result": "ok",
+   "act": "chat",
+   "channel": "chat",
+   "outcome": "ask"
+  },
+  {
+   "id": "t884cbd23fff",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-25T13:59:42Z",
+   "end": "2026-11-25T13:59:46Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tc0f1795c1ed",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-25T13:59:47Z",
+   "end": "2026-11-25T13:59:52Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t8bdff45ad82",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-25T13:59:53Z",
+   "end": "2026-11-25T14:00:01Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "t989db0595f4",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-25T14:00:01Z",
+   "end": "2026-11-25T14:00:08Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t16438624e80",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-25T14:00:21Z",
+   "end": "2026-11-25T14:00:26Z",
+   "result": "ok",
+   "act": "report"
   }
  ]
 }
