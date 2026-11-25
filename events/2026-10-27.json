@@ -1,50 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-25T21:31:04Z",
+ "generated_at": "2026-11-25T21:36:04Z",
  "date": "2026-10-27",
  "events": [
-  {
-   "id": "t6437d15d419",
-   "room": "mia-aide",
-   "agent": "schedule-agent",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "act",
-   "start": "2026-10-26T21:31:05Z",
-   "end": "2026-10-26T21:31:09Z",
-   "result": "ok",
-   "act": "desk"
-  },
-  {
-   "id": "t779bf39bd0c",
-   "room": "mia-aide",
-   "agent": "schedule-agent",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "act",
-   "start": "2026-10-26T21:31:14Z",
-   "end": "2026-10-26T21:31:27Z",
-   "result": "ok",
-   "act": "mcp"
-  },
-  {
-   "id": "teb657f91e09",
-   "room": "mia-aide",
-   "agent": "schedule-agent",
-   "instance": 1,
-   "depth": 1,
-   "parent": "main",
-   "parent_instance": 1,
-   "kind": "act",
-   "start": "2026-10-26T21:31:45Z",
-   "end": "2026-10-26T21:31:55Z",
-   "result": "ok",
-   "act": "desk"
-  },
   {
    "id": "s40427724658",
    "room": "sapling",
