@@ -1,52 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-26T21:56:04Z",
+ "generated_at": "2026-11-26T22:01:04Z",
  "date": "2026-10-28",
  "events": [
-  {
-   "id": "td8fa4a73a12",
-   "room": "mia-aide",
-   "agent": "main",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "act",
-   "start": "2026-10-27T21:59:04Z",
-   "end": "2026-10-27T21:59:46Z",
-   "result": "ok",
-   "act": "chat",
-   "channel": "chat",
-   "outcome": "ask"
-  },
-  {
-   "id": "t6ff439314c4",
-   "room": "mia-aide",
-   "agent": "main",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "act",
-   "start": "2026-10-27T21:59:25Z",
-   "end": "2026-10-27T22:00:35Z",
-   "result": "ok",
-   "act": "mcp"
-  },
-  {
-   "id": "t9f548d328a6",
-   "room": "mia-aide",
-   "agent": "main",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "act",
-   "start": "2026-10-27T21:59:43Z",
-   "end": "2026-10-27T22:00:41Z",
-   "result": "ok",
-   "act": "report"
-  },
   {
    "id": "s40609881522",
    "room": "sapling",
