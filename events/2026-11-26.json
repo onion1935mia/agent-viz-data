@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-26T12:51:04Z",
+ "generated_at": "2026-11-26T12:56:04Z",
  "date": "2026-11-26",
  "events": [
   {
@@ -162,8 +162,8 @@
    "parent_instance": null,
    "kind": "wait_human",
    "start": "2026-11-26T11:10:33Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-11-26T12:51:56Z",
+   "result": "ok"
   },
   {
    "id": "tea59dcec923",
@@ -303,7 +303,34 @@
    "parent_instance": null,
    "kind": "act",
    "start": "2026-11-26T12:50:45Z",
-   "end": "2026-11-26T12:50:52Z",
+   "end": "2026-11-26T12:52:00Z",
+   "result": "ok",
+   "act": "report"
+  },
+  {
+   "id": "tc9fe7f73a56",
+   "room": "sapling",
+   "agent": "ci-check",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-11-26T12:51:56Z",
+   "end": "2026-11-26T12:53:39Z",
+   "result": "ok"
+  },
+  {
+   "id": "tb54812bd054",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-26T12:53:39Z",
+   "end": "2026-11-26T12:53:43Z",
    "result": "ok",
    "act": "report"
   }
