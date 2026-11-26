@@ -1,21 +1,8 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-25T21:36:04Z",
+ "generated_at": "2026-11-26T00:41:04Z",
  "date": "2026-10-27",
  "events": [
-  {
-   "id": "s40427724658",
-   "room": "sapling",
-   "agent": "ci-check",
-   "instance": 1,
-   "depth": 0,
-   "parent": null,
-   "parent_instance": null,
-   "kind": "work",
-   "start": "2026-10-27T00:38:51Z",
-   "end": "2026-10-27T00:39:02Z",
-   "result": "ok"
-  },
   {
    "id": "s40428560694",
    "room": "sapling",
