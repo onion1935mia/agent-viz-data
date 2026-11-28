@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-28T09:21:05Z",
+ "generated_at": "2026-11-28T09:26:05Z",
  "date": "2026-11-28",
  "events": [
   {
@@ -2153,8 +2153,8 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-11-28T09:16:57Z",
-   "end": null,
-   "result": "running"
+   "end": "2026-11-28T09:20:29Z",
+   "result": "ok"
   },
   {
    "id": "t41d4c3892d7",
@@ -2166,6 +2166,45 @@
    "parent_instance": 1,
    "kind": "work",
    "start": "2026-11-28T09:18:40Z",
+   "end": "2026-11-28T09:19:15Z",
+   "result": "ok"
+  },
+  {
+   "id": "t124990f1ad4",
+   "room": "sapling",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-11-28T09:21:10Z",
+   "end": "2026-11-28T09:21:31Z",
+   "result": "ok"
+  },
+  {
+   "id": "tb1cdac59a44",
+   "room": "sapling",
+   "agent": "extra",
+   "instance": 2,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-11-28T09:21:10Z",
+   "end": null,
+   "result": "running"
+  },
+  {
+   "id": "tc525e8e6886",
+   "room": "sapling",
+   "agent": "extra",
+   "instance": 1,
+   "depth": 1,
+   "parent": "main",
+   "parent_instance": 1,
+   "kind": "work",
+   "start": "2026-11-28T09:25:02Z",
    "end": null,
    "result": "running"
   }
