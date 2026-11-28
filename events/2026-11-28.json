@@ -1,6 +1,6 @@
 {
  "schema_version": "0.3",
- "generated_at": "2026-11-28T07:11:04Z",
+ "generated_at": "2026-11-28T07:21:04Z",
  "date": "2026-11-28",
  "events": [
   {
@@ -1939,6 +1939,90 @@
    "kind": "act",
    "start": "2026-11-28T07:08:58Z",
    "end": "2026-11-28T07:09:02Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "ta04cfdb9c54",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-28T07:18:14Z",
+   "end": "2026-11-28T07:18:18Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tcb1407d212b",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-28T07:18:21Z",
+   "end": "2026-11-28T07:18:23Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "taf2528b61cf",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-28T07:18:23Z",
+   "end": "2026-11-28T07:19:58Z",
+   "result": "ok",
+   "act": "desk"
+  },
+  {
+   "id": "tdbb4874e0f9",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-28T07:20:01Z",
+   "end": "2026-11-28T07:20:13Z",
+   "result": "ok",
+   "act": "mcp"
+  },
+  {
+   "id": "t436129411f5",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-28T07:20:18Z",
+   "end": "2026-11-28T07:20:28Z",
+   "result": "ok",
+   "act": "record"
+  },
+  {
+   "id": "t5a3e3143105",
+   "room": "mia-aide",
+   "agent": "main",
+   "instance": 1,
+   "depth": 0,
+   "parent": null,
+   "parent_instance": null,
+   "kind": "act",
+   "start": "2026-11-28T07:20:29Z",
+   "end": "2026-11-28T07:20:33Z",
    "result": "ok",
    "act": "mcp"
   }
